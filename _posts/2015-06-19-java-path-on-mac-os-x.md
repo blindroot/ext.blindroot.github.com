@@ -3,7 +3,7 @@ layout: post
 title: "Java PATH on Mac OS X"
 description: ""
 category: 
-tags: [osx path java jdk]
+tags: [osx] [path] [java] [jdk]
 ---
 
 Problem: I've just installed new Java JDK from Oracle's site, but OS X terminal is still using the default Java version (that one set in OS X System Preferences).

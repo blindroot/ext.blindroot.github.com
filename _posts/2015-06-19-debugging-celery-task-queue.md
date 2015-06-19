@@ -3,7 +3,7 @@ layout: post
 title: "Debugging Celery task queue"
 description: ""
 category: 
-tags: [python celery debug]
+tags: [python]  [celery] [debug]
 ---
 
 Having process like fired up like this (just to give you analogy):
