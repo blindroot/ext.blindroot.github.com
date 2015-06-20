@@ -13,8 +13,8 @@ There is a really decent 's3' gem. This tiny sctipt takes all files from your S3
 
 ```
 require "s3"
-# Make sure thatAWS user
-# has full r/o access to our S3
+# Make sure that you create separate AWS user
+# which has at least read-only access to your S3 bucket(s)
 service = S3::Service.new(:access_key_id => "AKKMYIDTOAWSSERVICESAKK",
      			  :secret_access_key => "qwertyqwertyqwertyqwerty")
 
